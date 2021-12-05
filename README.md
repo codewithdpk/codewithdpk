@@ -19,8 +19,7 @@
 <a href="https://linkedin.com/in/deepak-suthar-7879071ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-suthar-7879071ab" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak.suthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak.suthr" height="30" width="40" /></a>
 </p>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdpk&show_icons=true&locale=en&layout=compact" alt="codewithdpk" /></p>
 
