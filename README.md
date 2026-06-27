@@ -1,6 +1,6 @@
 # Hey, I'm Deepak Suthar
 
-**Senior Software Engineer** at [@Scoutflo](https://github.com/Scoutflo) | Mumbai, India
+**Senior Software Engineer** at [@Nearsite](https://nearsite.com) | Princeton, NJ, USA.
 
 I build developer tools, message brokers, and AI-powered utilities. Currently exploring the intersection of LLMs and developer workflows through MCP (Model Context Protocol) integrations.
 
